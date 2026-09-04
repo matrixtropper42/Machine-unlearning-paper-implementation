@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+torch==2.5.1
+scikit-learn==1.5.2
+plotly
+dill
+streamlit==1.40.1
+requests
